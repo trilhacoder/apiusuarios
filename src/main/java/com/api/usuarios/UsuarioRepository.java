@@ -1,4 +1,4 @@
-package com.api.clientes.apiusuarios;
+package com.api.usuarios;
 
 import java.util.UUID;
 

@@ -1,4 +1,4 @@
-package com.api.clientes.apiusuarios;
+package com.api.usuarios;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
